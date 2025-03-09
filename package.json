@@ -1,0 +1,11 @@
+{
+  "name": "wmctrl-wrapper",
+  "version": "1.0.0",
+  "main": "./lib/wmctrl-wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["wmctrl", "window manager", "linux"],
+  "author": "Ayyoub Essadeq",
+  "description": "A Node.js wrapper for the wmctrl command."
+}
